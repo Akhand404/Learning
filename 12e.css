@@ -1,12 +1,15 @@
 p{
     display: inline-block;
     margin-left: 10px;
+    color: black;
 }
 .border{
     border-radius:.5px; 
-    color: gray; border: 
-    solid; 
+    color: rgb(191, 186, 186); 
+    border: solid; 
     border-radius: 6px;
+    height: 150px;
+    width: 300px;
 }
 button{
    background-color: rgb(32, 112, 242);
@@ -18,17 +21,20 @@ button{
    padding-left: 10px;
    padding-right: 10px;
    margin-right: 10px;
-   justify-content: right;
 }
 
 .home{
-    margin-left: 500px;
+    margin-left: 200px;
+    margin-bottom: 0;
+    
 }
 .notification{
-    margin-left: 460px;
+    margin-left: 160px;
+    margin-bottom: 0;
 }
 
 .messages{
-    margin-left: 480px;
+    margin-left: 180px;
+    margin-bottom: 0;
 }
 
